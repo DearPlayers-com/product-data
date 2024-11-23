@@ -1,4 +1,4 @@
-# Frequently Asked Questions(FAQ)
+## Frequently Asked Questions(FAQ)
 
 ## Is it safe to buy Honor of Kings Tokens from DearPlayers?
 Yes, it is completely safe to buy HOK Tokens from DearPlayers. We use secure payment gateways and encryption to protect your personal and payment information. Our team ensures a fast and secure top-up process.
