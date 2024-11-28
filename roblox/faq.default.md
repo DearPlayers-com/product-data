@@ -25,3 +25,22 @@ If you encounter difficulties finding the free virtual item, find: [https://en.h
 ### Can I gift a Roblox Gift Card purchased from Dearplayers.com to a friend?
 
 Absolutely! You can gift a Roblox Gift Card to a friend by providing them with the voucher code. They can redeem it on their account and enjoy the benefits.
+
+
+### I want buy USD gift card, but my Roblox account is not in USA, can I buy it?
+
+Yes, you can buy a USD Roblox Gift Card even if your Roblox account is not registered in the United States. After you redeem the gift card, it will automatically convert to your account's currency. For example, if my account is registered in the Philippines, the gift card will automatically convert to PHP after redemption.
+
+
+### Buy Robux have any account restriction?
+
+No, there are no restrictions for redeem Robux, you can buy for any Roblox account.
+
+
+### How to check my Roblox account balance?
+
+You can check your Robux balance by logging into your Roblox account and visiting the "Robux" section of your account settings. Your Robux balance will be displayed there.
+
+### After redeem the Roblox Gift Card, how long will it take to show in my account?
+
+After redeeming the Roblox Gift Card, It will instantly reflect in your account, you can check the balance in your account settings.
